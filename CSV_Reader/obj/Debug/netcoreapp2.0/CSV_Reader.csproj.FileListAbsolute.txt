@@ -1,0 +1,11 @@
+C:\Users\Uzumaki\source\repos\CSV_Reader\CSV_Reader\bin\Debug\netcoreapp2.0\CSV_Reader.deps.json
+C:\Users\Uzumaki\source\repos\CSV_Reader\CSV_Reader\bin\Debug\netcoreapp2.0\CSV_Reader.runtimeconfig.json
+C:\Users\Uzumaki\source\repos\CSV_Reader\CSV_Reader\bin\Debug\netcoreapp2.0\CSV_Reader.runtimeconfig.dev.json
+C:\Users\Uzumaki\source\repos\CSV_Reader\CSV_Reader\bin\Debug\netcoreapp2.0\CSV_Reader.dll
+C:\Users\Uzumaki\source\repos\CSV_Reader\CSV_Reader\obj\Debug\netcoreapp2.0\CSV_Reader.csprojResolveAssemblyReference.cache
+C:\Users\Uzumaki\source\repos\CSV_Reader\CSV_Reader\obj\Debug\netcoreapp2.0\CSV_Reader.csproj.CoreCompileInputs.cache
+C:\Users\Uzumaki\source\repos\CSV_Reader\CSV_Reader\obj\Debug\netcoreapp2.0\CSV_Reader.AssemblyInfoInputs.cache
+C:\Users\Uzumaki\source\repos\CSV_Reader\CSV_Reader\obj\Debug\netcoreapp2.0\CSV_Reader.AssemblyInfo.cs
+C:\Users\Uzumaki\source\repos\CSV_Reader\CSV_Reader\bin\Debug\netcoreapp2.0\CSV_Reader.pdb
+C:\Users\Uzumaki\source\repos\CSV_Reader\CSV_Reader\obj\Debug\netcoreapp2.0\CSV_Reader.dll
+C:\Users\Uzumaki\source\repos\CSV_Reader\CSV_Reader\obj\Debug\netcoreapp2.0\CSV_Reader.pdb

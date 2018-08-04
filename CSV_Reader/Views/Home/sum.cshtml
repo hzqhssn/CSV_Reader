@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Sum Page";
+}
+
+<h1>Welcome to Sum Page</h1>
+
+<form asp-controller="Home" asp-action="add" method="post">
+
+    <span>Enter 1st Number : </span> <input id="Text1" type="text" name="txtFirst" /> <br /><br />
+    <span>Enter 2nd Number : </span> <input id="Text1" type="text" name="txtSecond" /> <br /><br />
+    <input id="Submit1" type="submit" value="Add" />
+</form>
+
+<h2>@ViewBag.SumResult</h2>
